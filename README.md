@@ -11,4 +11,4 @@ This project contains Java Main Class and Kotlin Functional Class. Program conta
 
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
